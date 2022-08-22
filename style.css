@@ -1,0 +1,47 @@
+#box1{
+    margin-left: 35%;
+    background-color: gainsboro;
+    height: 600px;
+    width: 400px;
+    margin-top: 40px;
+}
+#im1{
+    height: 150px;
+    width: 150px;
+    
+   border-radius: 50%;
+   padding: 5%;
+    
+    
+    
+}
+#a{
+    
+    padding-top: 15px;
+    
+}
+#a2{
+    height: 30px;
+    width:260px;
+    border-radius: 10px;
+}
+#a3{
+    height: 30px;
+    width:260px;
+    border-radius: 10px;
+}
+.all{
+    text-align: center;
+}
+#button1{
+    height: 40px;
+    width:220px;
+    border-radius: 10px;
+    margin-top: 30px;
+   background-color: rgb(148, 42, 42);
+   
+
+}
+#help{
+    text-decoration: none;
+}
